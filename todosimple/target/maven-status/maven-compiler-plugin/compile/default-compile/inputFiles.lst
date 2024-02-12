@@ -1,0 +1,15 @@
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/exceptions/ErrorResponse.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/services/exceptions/DataBindingViolationException.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/TodosimpleApplication.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/repositories/TaskRepository.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/configs/WebConfig.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/controllers/UserController.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/models/User.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/controllers/TaskController.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/exceptions/GlobalExceptionHandler.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/models/Task.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/services/UserService.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/services/exceptions/ObjectNotFoundException.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/services/TaskService.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/repositories/UserRepository.java
+/home/phost/Documents/phostSpring/To-do-list-Spring-main/todosimple/src/main/java/com/example/todosimple/configs/SwaggerConfig.java
